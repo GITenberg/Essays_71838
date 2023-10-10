@@ -1,0 +1,43 @@
+_repo: Essays_71838
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Morley
+creator:
+  author:
+    agent_name: Praed, Winthrop Mackworth
+    birthdate: 1802
+    deathdate: 1839
+    gutenberg_agent_id: '51814'
+    url: http://www.gutenberg.org/2009/agents/51814
+    wikipedia: https://en.wikipedia.org/wiki/Winthrop_Mackworth_Praed
+  editor:
+    agent_name: Young, George
+    birthdate: 1872
+    deathdate: 1952
+    gutenberg_agent_id: '36884'
+    url: http://www.gutenberg.org/2009/agents/36884
+description: ''
+gutenberg_issued: '2023-10-09'
+identifiers:
+  gutenberg: '71838'
+language: en
+pgterms:marc904: https://archive.org/details/essayspraed00prae/page/n5/mode/2up
+pgterms:marc905: 20221227055743praed
+pgterms:marc906: '1887'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: '  $aLondon :$bGeorge Routledge and Sons, $c1887.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Essays
+url: http://www.gutenberg.org/ebooks/71838
